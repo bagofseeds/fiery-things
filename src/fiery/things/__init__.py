@@ -1,1 +1,1 @@
-"""Template module for fiery projects."""
+"""Template module for a fiery match."""

@@ -1,6 +1,6 @@
 # fiery-things
 
-Template repository for `fiery` PyTorch projects.
+Template repository for `fiery` PyTorch matches.
 
 This template includes:
 
